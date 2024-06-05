@@ -63,7 +63,7 @@ Number of comparisons: 2
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/binary-search-algorithm.git
+   git clone https://github.com/AryanM1380/Search_binary.git
    ```
 
 2. **Navigate to the project directory:**
